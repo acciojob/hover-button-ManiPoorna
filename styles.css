@@ -1,7 +1,7 @@
 button#btn{
 	background-color : black;
 	color : white;
-	borde-radius : 5px;
+	border-radius : 5px;
 }
 
 #btn:hover{
